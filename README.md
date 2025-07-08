@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nish Desai
+# 👋 Hi, I'm Nishq Desai
 
 I'm an AI researcher and data scientist with a passion for building intelligent systems that solve real-world problems. My work spans machine learning, computer vision, and NLP—applied across urban safety, healthcare, finance, and more.
 
