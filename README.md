@@ -1,9 +1,18 @@
-# 👋 Hi, I'm Nishq Desai
+## 👋 Hi, I'm Nishq Desai
 
-I'm an AI researcher and data scientist with a passion for building intelligent systems that solve real-world problems. My work spans machine learning, computer vision, and NLP—applied across urban safety, healthcare, finance, and more.
+AI Engineer at HCL Technologies with 4+ years building production ML systems. Currently developing AI-powered SQL generation and data quality solutions for enterprise banking.
 
-🔗 **Check out my portfolio:** [desinister.github.io](https://desinister.github.io)
+### 🔬 Recent highlights:
+• Published CycleCrash dataset at WACV 2025 for autonomous vehicle safety  
+• Built AI-powered SQL generation platform for CitiBank automating 2,000+ enterprise tables  
+• Developed CollideNet for real-time collision forecasting with 30.2% error reduction  
 
-- Currently on the look for Data Scientist, Applied Scientist or ML Engineer roles.
+### 🎓 Background:
+MASc in AI from Queen's University | 100+ citations | Reviewer for CVPR, ICCV, ECCV
 
-Thanks for stopping by!
+### 🔗 Links:
+- Portfolio: [desinister.github.io](https://desinister.github.io)
+- 📍 Open to Senior AI Engineer, Applied Scientist, or ML Engineer roles
+
+### 🛠️ Tech Stack:
+Python • PyTorch • TensorFlow • LLMs • RAG • Computer Vision • NLP • AWS • Docker
